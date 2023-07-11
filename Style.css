@@ -1,0 +1,15 @@
+.Band{
+    border: 10px dashed goldenrod;
+    border-radius: 10px; 
+    margin: 1%;
+    padding: 40px;
+    width: 30%;
+    height: 30%;
+    display:inline-block;
+ }
+ h3{
+     text-align: center;
+ }
+ p{
+     text-align: justify;
+ }
